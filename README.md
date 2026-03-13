@@ -2,6 +2,7 @@
 
 i sold this "Bot Project" before.
 but they never paid me so its public now
+(might be unfinished and got some issues but works)
 
 ## Quick Start
 
