@@ -1,4 +1,4 @@
-# Discord Bot Commission - @selfloved
+# All In One - @selfloved
 
 i sold this "Bot Project" before.
 but they never paid me so its public now
